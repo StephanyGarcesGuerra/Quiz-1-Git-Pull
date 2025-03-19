@@ -1,0 +1,8 @@
+#Tips for a Commit Message
+
+**short** description of the commit
+
+**longer** explanation for the motivation for the change
+
+if it is a *fixed* bug: Enter bug-id or delete line
+Implements-Requirement: enter requirement-id or delete line
